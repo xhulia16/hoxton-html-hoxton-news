@@ -1,0 +1,48 @@
+.media{
+    font-size: larger;
+   font-weight: bold;
+    margin: 20px;
+}
+span{
+    margin: 20px;
+}
+.header{   
+    padding: 40px;
+    margin: 0;
+background-color: rgb(2, 2, 24);
+color:aliceblue;
+}
+h2{
+   font-weight: 200;
+}
+
+.body{
+    margin: 20px;
+}
+
+img{
+padding-left: 20px;
+padding-right: 20px;
+margin: 20px;
+border-radius: 15%;
+box-shadow: 5px 5px 5px 0px #00000050;
+}
+.subscribe{
+    font-weight: 200;
+    font-size: medium;
+    padding: 10px;
+    color: darkgoldenrod;
+    width: 140px;
+    border-radius: 15%;
+    border: solid 1px darkgoldenrod;
+    margin: 20px;
+}
+.footer{
+    padding: 15px;
+    margin: 0;
+background-color: rgb(2, 2, 24);
+color:aliceblue;   
+}
+ul{
+    list-style: none;
+}
